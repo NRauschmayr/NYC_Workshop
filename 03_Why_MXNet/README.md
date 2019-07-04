@@ -1,4 +1,4 @@
-# Intro to Deep Learning
+# MXNet
 
 ## Slides
 Slides will be made available
