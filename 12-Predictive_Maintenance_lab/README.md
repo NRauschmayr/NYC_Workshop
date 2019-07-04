@@ -1,4 +1,4 @@
-# Intro to Deep Learning
+# Predictive Maintenance lab
 
 ## Slides
 Slides will be made available
